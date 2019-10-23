@@ -41,4 +41,5 @@ The query builder is part of the IDM and adopts a natural language syntax for wr
    PHP data in the DOM for use in JS functionality._
 
 -  _F7 CMS for managing content and access control. F7 itself is quick to deploy and has a simple and easy to use interface.
-   The UI of a simple F7-powered CMS could be setup within minutes, using a modular and extensible XML structure._ 
+   The UI of a simple F7-powered CMS could be setup within minutes, using a modular and extensible XML structure._
+   
